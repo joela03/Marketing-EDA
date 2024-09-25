@@ -1,24 +1,24 @@
 # Marketing Campaign Analysis with Python
 
 ## Overview
-This project involves conducting an **exploratory data analysis (EDA)** on a social media advertising campaign dataset. The goal is to uncover key performance drivers, analyze campaign effectiveness, and provide actionable recommendations to improve future marketing strategies.
+This project involves conducting an **exploratory data analysis (EDA)** on a social media advertising campaign dataset. The goal is to uncover key performance drivers, analyse campaign effectiveness, and provide actionable recommendations to improve future marketing strategies.
 
-Using Python libraries such as **Pandas**, **NumPy**, **Matplotlib**, and **Seaborn**, the project explores campaign data, audience demographics, and return on investment (ROI) metrics. Insights gained through statistical analysis and visualization can be used to optimize campaign strategies moving forward.
+Using Python libraries such as **Pandas**, **NumPy**, **Matplotlib**, and **Seaborn**, the project explores campaign data, audience demographics, and return on investment (ROI) metrics. Insights gained through statistical analysis and visualisation can be used to optimise campaign strategies moving forward.
 
 ## Project Goals
 - Perform **data cleaning** and preprocessing to ensure accurate analysis.
-- Use **descriptive statistics** and **visualizations** to identify trends and relationships in the dataset.
+- Use **descriptive statistics** and **visualisations** to identify trends and relationships in the dataset.
 - Conduct **A/B testing** to evaluate the effectiveness of different campaign strategies.
 - Perform **correlation analysis** and **feature engineering** to improve predictive model accuracy.
-- Provide **recommendations** for optimizing future marketing efforts.
+- Provide **recommendations** for optimising future marketing efforts.
 
 ## Key Insights
-- Detailed visualizations highlight which factors most strongly impact campaign success, including user engagement by age, gender, and platform.
+- Detailed visualisations highlight which factors most strongly impact campaign success, including user engagement by age, gender, and platform.
 - Statistical tests reveal significant differences between campaign versions, helping to refine future targeting strategies.
 - Audience segmentation based on demographics uncovers opportunities for higher engagement.
 
 ## Files in Repository
-- `marketing_eda.ipynb`: The main Jupyter notebook containing all analysis and visualizations.
+- `marketing_eda.ipynb`: The main Jupyter notebook containing all analysis and visualisations.
 - `data/`: Folder containing the dataset used for the analysis.
 - `README.md`: This file, outlining the project details and structure.
 
@@ -45,7 +45,7 @@ bash
 git clone https://github.com/joela03/Marketing-EDA-PYTHON.git 
 ```
 2. Open the marketing_eda.ipynb file in Jupyter Notebook or JupyterLab.
-3. Run the cells to see the data analysis process and visualizations.
+3. Run the cells to see the data analysis process and visualisations.
 
 ## Results
 The EDA provides several actionable insights into improving campaign performance, including:
@@ -57,7 +57,7 @@ The EDA provides several actionable insights into improving campaign performance
 ## Future Enhancements
 - Incorporate machine learning models to predict future campaign performance based on historical data.
 - Expand the analysis to include cross-platform comparisons of ad performance.
-- Add additional audience segmentation and personalization options to target ads more effectively.
+- Add additional audience segmentation and personalisation options to target ads more effectively.
 
 ## Contributing
 Feel free to fork this repository and contribute by submitting a pull request. Suggestions for improvements or new features are always welcome!
